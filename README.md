@@ -1,5 +1,10 @@
 People
 ======
+```bash
+roslaunch people_velocity_tracker tracked_detector.launch
+```
+
+
 Algorithms related to detecting and tracking people using various robot sensors.
 
 ## Documentation
